@@ -1,0 +1,4 @@
+To download the latest APK:
+1. Go to the 'Releases' section on the GitHub repository sidebar.
+2. Download the 'app-debug.apk' or 'app-release.apk' from the assets.
+3. Install on your Android device (ensure 'Install from unknown sources' is enabled).

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Futuristic "K" Branding Logo -->
+    <group
+        android:translateX="15"
+        android:translateY="10">
+
+        <!-- Main K Structure -->
+        <path
+            android:strokeColor="#00E5FF"
+            android:strokeWidth="5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M20,10 L20,70" />
+
+        <path
+            android:strokeColor="#00E5FF"
+            android:strokeWidth="5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M20,40 L55,10" />
+
+        <path
+            android:strokeColor="#00E5FF"
+            android:strokeWidth="5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M20,40 L55,70" />
+
+        <!-- Accent Bar -->
+        <path
+            android:fillColor="#00FF88"
+            android:pathData="M62,10 L67,10 L67,70 L62,70 Z" />
+
+        <!-- Data Accents -->
+        <path
+            android:fillColor="#00E5FF"
+            android:pathData="M20,2 A2,2 0 1,1 19.99,2 Z" />
+        <path
+            android:fillColor="#00E5FF"
+            android:pathData="M64.5,2 A2,2 0 1,1 64.49,2 Z" />
+    </group>
+
+</vector>

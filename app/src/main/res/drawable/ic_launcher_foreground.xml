@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Futuristic "K" Logo -->
+    <group
+        android:translateX="10"
+        android:translateY="5">
+
+        <!-- Main K Structure -->
+        <path
+            android:strokeColor="#00E5FF"
+            android:strokeWidth="5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M30,25 L30,83" />
+
+        <path
+            android:strokeColor="#00E5FF"
+            android:strokeWidth="5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M30,54 L65,25" />
+
+        <path
+            android:strokeColor="#00E5FF"
+            android:strokeWidth="5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M30,54 L65,83" />
+
+        <!-- Accent Bar (Sports Analytics Feel) -->
+        <path
+            android:fillColor="#00FF88"
+            android:pathData="M72,25 L77,25 L77,83 L72,83 Z" />
+
+        <!-- Connection Accents -->
+        <path
+            android:strokeColor="#00FF88"
+            android:strokeWidth="2"
+            android:pathData="M65,25 L72,25 M65,83 L72,83" />
+
+        <!-- Data/Signal Dots -->
+        <path
+            android:fillColor="#00E5FF"
+            android:pathData="M30,15 A2,2 0 1,1 29.99,15 Z" />
+        <path
+            android:fillColor="#00E5FF"
+            android:pathData="M74.5,15 A2,2 0 1,1 74.49,15 Z" />
+
+    </group>
+
+    <!-- Motion lines -->
+    <path
+        android:strokeColor="#3300E5FF"
+        android:strokeWidth="1"
+        android:pathData="M15,40 L25,40 M15,54 L25,54 M15,68 L25,68" />
+
+</vector>
