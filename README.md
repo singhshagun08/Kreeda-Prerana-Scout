@@ -9,17 +9,6 @@
 
 ---
 
-## 📸 Screenshots
-
-| Splash & Branding | Login | Dashboard |
-|:---:|:---:|:---:|
-| <img src="metadata/screenshots/splash.png" width="200" /> | <img src="metadata/screenshots/login.png" width="200" /> | <img src="metadata/screenshots/home.png" width="200" /> |
-
-| Athlete List | Performance Timer | Analytics |
-|:---:|:---:|:---:|
-| <img src="metadata/screenshots/list.png" width="200" /> | <img src="metadata/screenshots/timer.png" width="200" /> | <img src="metadata/screenshots/analytics.png" width="200" /> |
-
----
 
 ## ✨ Key Features
 
